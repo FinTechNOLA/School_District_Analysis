@@ -1,19 +1,20 @@
 # School District Analysis
 ## Overview
 
-This challenge is intended to provide analysis of the district and school-wide impact of nullifying student math and reading grades that may have been compromised. Upon successful practice and completion of the coding required to replace the disputed grades from Thomas High School, I would be able to provide further analysis.
+This challenge is intended to provide analysis of the district and school-wide impact of the exclusion of data that may have been comprised. In this analysis, the data in question 
+is reflects the 9th grade math and reading data from Thomas High School. 
 
-In the meantime, I am hapopy to report that my laptop arrived and I am almost caught up on the material through through Module 4. I recognize that may not appear much, however I feel more confident that I can complete future assignments in time (and will return to this assignment to resubmit). 
+By updating the data set to exclude the reading and 9th grade class, I could provide comparative data that can be used to further understand the impact of the
 
 ## Results
-### Breakdown by District
--
--
--
--
--
--
--
+### Impact of the Analysis on District Metrics
+- Total Students: The total number of student decreased by 
+- Per Student Budget: Due to the 
+- Average Math Score: 
+- Average Reading Score: 	
+- % Passing Math	
+- % Passing Reading	
+- % Overall Passing
 
 ## Summary
 ### Changes to District Analysis
