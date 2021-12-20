@@ -29,4 +29,4 @@ By removing the 9th grade scores from Thomas High School, the following changes 
 
 4. Average costs per student also increased
 
-The Thomas High School 9th Grade scores were among the lowest scores in the District. Without those scores, the District will appear to be performing better.
+Without those scores, the District will appear to be performing better.
